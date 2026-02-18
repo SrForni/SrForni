@@ -5,7 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/SrForni">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Console&pause=1000&width=435&lines=Full+Stack+Developer;Always+developing+my+skills;Technology+enthusiast;Problem-solver;Python+%7C+Java+%7C+SQL;C+%7C+C%2B%2B+%7C+C%23;HTML+%7C+CSS+%7C+TypeScript;Git+%7C+Web+%7C+APIs&center=true&width=380&height=45">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Console&pause=1000&width=435&lines=DevOps+Engineer;Cloud+%26+Automation+Enthusiast;CI%2FCD+Specialist;Infrastructure+as+Code;Docker+%7C+Kubernetes+%7C+Terraform;AWS+%7C+Azure+%7C+GCP;Linux+%7C+Bash+%7C+Python;Git+%7C+Monitoring+%7C+DevSecOps&center=true&width=380&height=45">
+
   </a>
 </p>
 
@@ -33,8 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="50" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
   <img width="12" />
