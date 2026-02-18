@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Jesús
-  <img src="https://img.shields.io/github/followers/jfm112INSO?style=social">
-  <img src="https://komarev.com/ghpvc/?username=jfm112INSO">
+  <img src="https://img.shields.io/github/followers/SrForni?style=social">
+  <img src="https://komarev.com/ghpvc/?username=SrForni">
 </h1>
 
 <p align="center">
-  <a href="https://github.com/jfm112INSO">
+  <a href="https://github.com/SrForni">
     <img src="https://readme-typing-svg.herokuapp.com?font=Console&pause=1000&width=435&lines=Full+Stack+Developer;Always+developing+my+skills;Technology+enthusiast;Problem-solver;Python+%7C+Java+%7C+SQL;C+%7C+C%2B%2B+%7C+C%23;HTML+%7C+CSS+%7C+TypeScript;Git+%7C+Web+%7C+APIs&center=true&width=380&height=45">
   </a>
 </p>
@@ -22,12 +22,12 @@
 # 📊Github Stats
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jfm112INSO&show_icons=true&theme=github_dark" height="230px">
-  <img src="https://github-readme-stats.vercel.app/api?username=jfm112INSO&show_icons=true&theme=github_dark" height="230px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfm112INSO&show_icons=true&theme=github_dark" width="800px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrForni&show_icons=true&theme=github_dark" height="230px">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrForni&show_icons=true&theme=github_dark" height="230px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrForni&show_icons=true&theme=github_dark" width="800px">
 </div>
 
-# 💻Tech Stack <img src = "https://github.com/jfm112INSO/jfm112INSO/blob/main/assets/dev.gif" width = 22px>
+# 💻Tech Stack <img src = "https://github.com/SrForni/SrForni/blob/main/assets/dev.gif" width = 22px>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
