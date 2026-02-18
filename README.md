@@ -24,6 +24,8 @@
  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrForni&show_icons=true&theme=github_dark" height="230px">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrForni&show_icons=true&theme=github_dark" height="230px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrForni&show_icons=true&theme=github_dark" width="800px">
 </div>
 
 # 💻Tech Stack <img src = "https://github.com/SrForni/SrForni/blob/main/assets/dev.gif" width = 22px>
